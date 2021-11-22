@@ -1,13 +1,11 @@
-* {
+body {
+    background-image: url("https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/bltfc71ee49d6be0f58/60ef47acb9d0e137e48de28c/36a8da5c3a4eff4cb7f8212304908ae91730e485.jpg?width=1920&height=1080");
+
     display:flex;
 
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
-}
-
-body {
-    background-image: url("https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/bltfc71ee49d6be0f58/60ef47acb9d0e137e48de28c/36a8da5c3a4eff4cb7f8212304908ae91730e485.jpg?width=1920&height=1080");
 }
 
 div {

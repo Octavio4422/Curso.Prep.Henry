@@ -1,0 +1,20 @@
+variables: hay 3 tipos, const que es una variable inmodificable, 
+    var que afecta al todo el codigo pero es modificable 
+        y let que es una variable que se "esfuma", es decir que solo aplica a secciones del codigo
+    Cada variable puede almacenar cualquier tipo de dato, acotando su redaccion en el codigo
+
+Strings: Son basicamente cadenas de texto que se encierran entre comillas simples o dobles
+
+Funciones: Son ejecutables a los que se la asignan un nombre y un argumento, el nombre sirve para que pueda ser invocada,
+    y el argumento es el dato/valor con el cual va a actuar la funcion
+    Para que la funcion devuelva un valor/dato pedido se usa el return, lo que hace es interrumpir la ejecucion de la funcion
+        y devuelve un resultado de ser requerido
+
+Declaraciones IF: Literalmente traducido como "si", son condicionales, es decir que se ejecutan unicamente si la condicion dada es verdadera,
+    esta condicion se encuentra siempre encerrada en () despues del if.
+    De no cumplirce la condicion es posible asignar una condicion contraria, es decir que se ejecute si la condicion del if es falsa
+        esta misma se encuentra entre corchetes {} antes de la palabra ELSE.
+
+Valores booleanos: los valores booleanos son unicamente 2, 'true' y 'false', no son modificables,
+    y significan verdadero o 1 para true, y falso o 0 para false. Acompañan a las condicionales y 
+        sirven de modo simplificado para activar o desactivar algo.

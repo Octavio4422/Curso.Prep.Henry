@@ -1,0 +1,6 @@
+For: Es una instruccion que se ejecuta en bucle, hasta que se compla la condicion previamente especificada,
+    la condicion en un bucle for se especifica en () despues de la palabra for, 
+        esta misma contiene, una condicion de salida, una de parada, y por ultimo una que haga que coincida la condicion de salida con la de parada
+
+&&, ||, !: Son operadores de comparacion && significando and (y), || significando or (o), y ! siendo un simbolo de negacion, generalmente acompañado de comparadores
+    Todos los comparadores anteriormente despcritos acompañan a las condicionales en el trabajo de ejecutar instrucciones 

@@ -1,0 +1,2 @@
+Arrays: es una variable que su funcion es almacenar cualquier tipo de dato, construida por el nombre que se le quiera dar y []
+    no cuenta con un limite de almacenamiento, y se puede accerder a cualquier dato dentro ya sea por su nombre o su indice
